@@ -10,9 +10,9 @@ import os
 from pathlib import Path
 
 ENTRY = (
-    "I read your homework before the teacher did, and every answer "
-    "was wrong, so I ate the evidence. That is not naughty. "
-    "That is loyalty."
+    "I checked your homework first. Every answer was wrong, "
+    "so I ate the evidence before the teacher saw it. "
+    "I wasn't being naughty. I was being loyal. You're welcome."
 )
 
 
